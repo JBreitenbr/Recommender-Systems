@@ -96,7 +96,7 @@ print("\n")
 
 #18 And what is that correlation value (3 decimal places)?
 print("18. And what is that correlation value?")
-print(round(corrs[["User","corr"]].iloc[0,1]),3)
+print(round(corrs[["User","corr"]].iloc[0,1],3))
 print("\n")
 
 #19 And which user has the lowest correlation?
@@ -106,7 +106,7 @@ print("\n")
 
 #20 And what is that correlation value (3 decimal places)?
 print("20. And what is that correlation value?")
-print(round(corrs[["User","corr"]].iloc[9,1]),3)
+print(round(corrs[["User","corr"]].iloc[9,1],3))
 print("\n")
 
 #21 What is the average overall correlation?
