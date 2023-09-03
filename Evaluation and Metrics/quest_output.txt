@@ -1,0 +1,82 @@
+1. Which user has the highest MAE?
+2267
+
+
+2. What is the MAE for this highest-MAE user?
+0.9
+
+
+3. Which user has the lowest MAE?
+2824
+
+
+4. What is the MAE for this lowest-MAE user?
+0.4
+
+
+5. Which movie has the highest MAE?
+12: Finding Nemo (2003)
+
+
+6. What is the MAE for this highest-MAE movie?
+1.167
+
+
+7. Which movie has the lowest MAE?
+85: Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+
+
+8. What is the MAE for this lowest-MAE movie?
+0.38
+
+
+9. Overall MAE score across all predictions (3 decimal places)
+0.725
+
+
+10. MAE by-user
+0.731
+
+
+11. MAE by-movie
+0.732
+
+
+12. Which user has the highest RMSE?
+918
+
+
+13. And what is the RMSE for this highest-RMSE user?
+1.212
+
+
+14. Which user has the lowest RMSE?
+2824
+
+
+15. And what is the RMSE for this lowest-RMSE user?
+0.473
+
+
+16.Overall RMSE to 3 decimals
+0.891
+
+
+17. What user had the highest correlation between ratings and predictions?
+5261
+
+
+18. And what is that correlation value?
+1 3
+
+
+19. And which user has the lowest correlation?
+860
+
+
+20. And what is that correlation value?
+0 3
+
+
+21. What is the average overall correlation?
+0.566
