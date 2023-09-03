@@ -1,2 +1,2 @@
-MAE total,MAE by user,MAE by movie,MSE total,MRSE total,Correlation total
+MAE total,MAE by user,MAE by movie,MSE total,RMSE total,Correlation total
 0.724638,0.7311071,0.7316786,0.794493,0.891343,0.566448
